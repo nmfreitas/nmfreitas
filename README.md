@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmfreitas
 - 👀 I’m interested in Open source aplications, self hosted services and home automation.
-- 🌱 I’m currently learning All those thing im interested in.
+- 🌱 I’m currently learning all of those things i'm interested in.
 - 💞️ I’m looking to collaborate on translation for PT-PT, since i dont know how to code.
 
 <!---
